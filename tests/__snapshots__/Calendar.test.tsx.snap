@@ -1,0 +1,482 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hello component should render component properly 1`] = `
+<div
+  className="border-2 border-rose-600/70 rounded p-2 max-w-md"
+>
+  <div
+    className="text-center"
+  >
+    <h1
+      className="select-none font-semibold"
+    >
+      December
+      , 
+      1995
+    </h1>
+  </div>
+  <div
+    className="grid grid-cols-7"
+  >
+    <h1
+      className="text-sm text-center h-10 grid place-content-center text-gray-500 select-none"
+    >
+      Su
+    </h1>
+    <h1
+      className="text-sm text-center h-10 grid place-content-center text-gray-500 select-none"
+    >
+      Mo
+    </h1>
+    <h1
+      className="text-sm text-center h-10 grid place-content-center text-gray-500 select-none"
+    >
+      Tu
+    </h1>
+    <h1
+      className="text-sm text-center h-10 grid place-content-center text-gray-500 select-none"
+    >
+      We
+    </h1>
+    <h1
+      className="text-sm text-center h-10 grid place-content-center text-gray-500 select-none"
+    >
+      Th
+    </h1>
+    <h1
+      className="text-sm text-center h-10 grid place-content-center text-gray-500 select-none"
+    >
+      Fr
+    </h1>
+    <h1
+      className="text-sm text-center h-10 grid place-content-center text-gray-500 select-none"
+    >
+      Sa
+    </h1>
+  </div>
+  <div
+    className=" grid grid-cols-7 "
+  >
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        26
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        27
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        28
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        29
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        30
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        1
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        2
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        3
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        4
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        5
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        6
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        7
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        8
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        9
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        10
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        11
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="bg-black text-white bg-red-600 text-white h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        12
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        13
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        14
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        15
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        16
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        17
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        18
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        19
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        20
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        21
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        22
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        23
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        24
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        25
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        26
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        27
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        28
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        29
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        30
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        31
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        1
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        2
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        3
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        4
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        5
+      </h1>
+    </div>
+    <div
+      className="text-center h-8 w-8 grid place-content-center text-sm border-t"
+    >
+      <h1
+        className="text-gray-400 h-6 w-6 rounded-full grid place-content-center hover:bg-black hover:text-white transition-all cursor-pointer select-none"
+        onClick={[Function]}
+      >
+        6
+      </h1>
+    </div>
+  </div>
+</div>
+`;
